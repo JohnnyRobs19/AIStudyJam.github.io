@@ -16,7 +16,7 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
   * Dive into the fascinating world of gaming and AI by implementing Reinforcement Learning algorithms for the Chrome Dino game.
   * Learn how AI can be applied to gaming scenarios, unlocking the potential for innovative solutions.
 
-- **Event Itenary:**
+- **🗓️Event Itenary:**
 
   4.30 pm - 5.00 pm
     Registration
