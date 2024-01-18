@@ -19,7 +19,7 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
 - **Event Itenary:**
 
   * 4.30 pm - 5.00 pm
-  * Registration
+    Registration
 
 
   * 5.00 pm - 5.30 pm
