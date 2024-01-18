@@ -17,6 +17,7 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
   * Learn how AI can be applied to gaming scenarios, unlocking the potential for innovative solutions.
 
 - **Event Itenary:**
+
 4.30 pm - 5.00 pm
 Registration
 
