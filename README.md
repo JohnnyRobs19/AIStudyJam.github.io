@@ -17,8 +17,22 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
   * Learn how AI can be applied to gaming scenarios, unlocking the potential for innovative solutions.
 
 - **Event Itenary:**
-  
-  ![image](https://github.com/ZheYu03/AIStudyJam.github.io/assets/145652841/1a8dd39c-f993-4b1d-8412-6605139ac3ea)
+4.30 pm - 5.00 pm
+Registration
+5.00 pm - 5.30 pm
+Intro to Reinforcement Learning 
+5.30 pm - 6.30 pm
+Hands On Teach AI to play Chrome Dino (Part 1)
+6.30 pm - 8.00 pm
+Dinner Break 
+8.00 pm -9.15 pm
+Hands On Teach AI to play Chrome Dino (Part 2)
+9.15 pm - 9.25 pm
+Photography Session
+9.25 pm - 9.30 pm
+Dismissal
+
+
 
 
 
