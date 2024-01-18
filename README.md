@@ -21,24 +21,23 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
   4.30 pm - 5.00 pm
     Registration
 
+  5.00 pm - 5.30 pm
+    Intro to Reinforcement Learning
+  
+  5.30 pm - 6.30 pm
+    Hands On Teach AI to play Chrome Dino (Part 1)
 
-  * 5.00 pm - 5.30 pm
-  * Intro to Reinforcement Learning
+  6.30 pm - 8.00 pm
+    Dinner Break
   
-  * 5.30 pm - 6.30 pm
-  * Hands On Teach AI to play Chrome Dino (Part 1)
+  8.00 pm -9.15 pm
+    Hands On Teach AI to play Chrome Dino (Part 2)
   
-  * 6.30 pm - 8.00 pm
-  * Dinner Break
-  
-  * 8.00 pm -9.15 pm
-  * Hands On Teach AI to play Chrome Dino (Part 2)
-  
-  * 9.15 pm - 9.25 pm
-  * Photography Session
-  
-  * 9.25 pm - 9.30 pm
-  * Dismissal
+  9.15 pm - 9.25 pm
+    Photography Session
+
+  9.25 pm - 9.30 pm
+    Dismissal
 
 ## Workshop Link
 * [Intro to Reinforcement Learning](./IntroToRL/README.md)
