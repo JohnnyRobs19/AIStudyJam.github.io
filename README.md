@@ -17,6 +17,7 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
   * Learn how AI can be applied to gaming scenarios, unlocking the potential for innovative solutions.
 
 - **Event Itenary:**
+  
   ![image](https://github.com/ZheYu03/AIStudyJam.github.io/assets/145652841/1a8dd39c-f993-4b1d-8412-6605139ac3ea)
 
 
