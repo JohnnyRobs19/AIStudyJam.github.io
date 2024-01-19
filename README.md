@@ -43,7 +43,7 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
 * [Intro to Reinforcement Learning](./IntroToRL/README.md)
 * [Hands On Teach AI to play Chrome Dino](./HandsOnChromeDino/README.md)
 
-Info Pack is Set Up by Lim Zhe Yu and Jonathan Siew Zunxian
+Info Pack is Prepared by Lim Zhe Yu and Jonathan Siew Zunxian
 
   
 
