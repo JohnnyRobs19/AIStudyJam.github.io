@@ -44,7 +44,7 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
 * [Hands On Teach AI to play Chrome Dino](./HandsOnChromeDino/README.md)
 
 
-Info Pack is Prepared by Lim Zhe Yu and Jonathan Siew Zunxian
+The Info Pack is Prepared by Lim Zhe Yu and Jonathan Siew Zunxian
 
   
 
