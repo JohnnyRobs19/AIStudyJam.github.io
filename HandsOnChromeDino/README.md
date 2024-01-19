@@ -6,6 +6,8 @@ In this theory session, we will be going through the **Hands On Teach AI to play
 
 [Hands-On Session Slides](https://www.canva.com/design/DAF53pG2zs4/7TsMZmC_CC6Q8qI0Z2GkYw/view?utm_content=DAF53pG2zs4&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
+Speakers: 
+
 Part 1-Kong Sim Yi and Gan Zi Xiang
 
 Part 2-Justin Sem and Sayyid Syamil
