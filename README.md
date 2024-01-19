@@ -18,16 +18,16 @@ Are you ready to dive into the exciting realm of Artificial Intelligence (AI) an
 
 - **🗓️Event Itenary:**
 
-  4.30 pm - 5.00 pm
-    Registration
+  4.30 pm - 5.20 pm
+    Registration and Welcoming Students
 
-  5.00 pm - 5.30 pm
+  5.20 pm - 5.50 pm
     Intro to Reinforcement Learning
   
-  5.30 pm - 6.30 pm
+  5.50 pm - 6.50 pm
     Hands On Teach AI to play Chrome Dino (Part 1)
 
-  6.30 pm - 8.00 pm
+  6.50 pm - 8.00 pm
     Dinner Break
   
   8.00 pm -9.15 pm
